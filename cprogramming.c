@@ -16,7 +16,7 @@
     else {
         printf("the file is created\n");
     }
-/*
+
     //writting in file
     char data[100]= "The fopen() function is used to open the file. \n The fclose() function is used to close the file.";
     
@@ -58,4 +58,4 @@
     return 0;
  }
 
- */
+ 
