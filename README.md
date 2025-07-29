@@ -34,3 +34,7 @@ Overall, this program is a complete example of basic file handling in C. It show
 *CONCEPTS*:  Use of basic file handling functions in C, such as fopen(), fprintf(), fgets(), and fclose(), to perform file operations like creating, writing, reading, and appending data and how different file modes ("w", "r", and "a") affect file behavior and data handling.
 
 *LANGUAGE*: C
+
+*OUTPUT*: <img width="1424" height="732" alt="Image" src="https://github.com/user-attachments/assets/30523a12-8fc3-4632-81c0-b0edb5485f3d" />
+
+<img width="1424" height="732" alt="Image" src="https://github.com/user-attachments/assets/6a6b43ff-8e98-4b63-9bde-8b893409d408" />
